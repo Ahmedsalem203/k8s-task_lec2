@@ -162,17 +162,7 @@ deployment.apps/httpd-frontend creat
 
 - Screenshot:
 ![alt text](screenshots/15.png)
-----------------------------------
-16- replace the image to nginx777 with command directly 
 
-- Command used:
-kubectl apply -f yamls/deployment.yml 
-
-- Output of the command:
-deployment.apps/httpd-frontend creat
-
-- Screenshot:
-![alt text](screenshots/15.png)
 ----------------------------------
 16- replace the image to nginx777 with command directly 
 
